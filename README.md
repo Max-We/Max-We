@@ -17,8 +17,8 @@
 **Tech:** Python • JAX • Docker • Weights & Biases • HTML viewer  
 **Repo:** https://github.com/Max-We/alphazero-tetris
 
-### SF: Zero Signal-to-Noise  
-**Keywords:** diffusion models • signal-to-noise analysis • generative modeling • sampling research  
+### StableDiffusion: Zero Signal-to-Noise  
+**Keywords:** diffusion models • signal-to-noise analysis • generative modeling
 **Tech:** Python • Jupyter Notebook  
 **Repo:** https://github.com/Max-We/sf-zero-signal-to-noise
 
