@@ -1,4 +1,4 @@
-## ML Publications
+## Publications
 
 ### Variance-Aware Prior-Based Tree Policies for MCTS  
 **Keywords:** reinforcement learning • MCTS • online learning • bandits • variance-aware priors  
@@ -10,7 +10,7 @@
 **Tech:** Python • Gymnasium • Docker  
 **Repo:** https://github.com/Max-We/Tetris-Gymnasium
 
-## ML Projects
+## Machine Learning Projects
 
 ### AlphaZero Tetris  
 **Keywords:** self-play • planning • AlphaZero algorithm • MCTS • neural policy/value networks  
