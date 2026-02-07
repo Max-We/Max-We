@@ -1,16 +1,4 @@
-## Publications
-
-### Variance-Aware Prior-Based Tree Policies for MCTS  
-**Keywords:** reinforcement learning • MCTS • online learning • bandits • variance-aware priors  
-**Tech:** Python • Jupyter Notebook • pgx • mctx  
-**Repo:** https://github.com/Max-We/inverse-rpo
-
-### Piece by Piece: Assembling a Modular Reinforcement Learning Environment for Tetris
-**Keywords:** reinforcement learning • environment design • benchmarking • Gymnasium • modular simulation  
-**Tech:** Python • Gymnasium • Docker  
-**Repo:** https://github.com/Max-We/Tetris-Gymnasium
-
-## Machine Learning Projects
+## Projects
 
 ### AlphaZero Tetris  
 **Keywords:** self-play • planning • AlphaZero algorithm • MCTS • neural policy/value networks  
@@ -31,6 +19,18 @@
 **Keywords:** data mining • heuristic ranking • champion synergy • web UI • coverage metrics  
 **Tech:** JavaScript • HTML/CSS  
 **Repo:** https://github.com/Max-We/LoL-Two-Trick-Finder
+
+## Publications
+
+### Variance-Aware Prior-Based Tree Policies for MCTS  
+**Keywords:** reinforcement learning • MCTS • online learning • bandits • variance-aware priors  
+**Tech:** Python • Jupyter Notebook • pgx • mctx  
+**Repo:** https://github.com/Max-We/inverse-rpo
+
+### Piece by Piece: Assembling a Modular Reinforcement Learning Environment for Tetris
+**Keywords:** reinforcement learning • environment design • benchmarking • Gymnasium • modular simulation  
+**Tech:** Python • Gymnasium • Docker  
+**Repo:** https://github.com/Max-We/Tetris-Gymnasium
 
 ## Software Projects
 
