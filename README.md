@@ -6,12 +6,12 @@
 **Repo:** https://github.com/Max-We/alphazero-tetris
 
 ### StableDiffusion: Zero Signal-to-Noise  
-**Keywords:** diffusion models • signal-to-noise analysis • generative modeling
+**Keywords:** diffusion models • signal-to-noise analysis • generative modeling  
 **Tech:** Python • Jupyter Notebook  
 **Repo:** https://github.com/Max-We/sf-zero-signal-to-noise
 
 ### Japanese RAG  
-**Keywords:** NLP • retrieval-augmented generation • semantic search
+**Keywords:** NLP • retrieval-augmented generation • semantic search  
 **Tech:** Python • Streamlit • Weaviate • OpenAI API  
 **Repo:** https://github.com/Max-We/Japanese-RAG
 
